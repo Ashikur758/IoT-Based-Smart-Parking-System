@@ -4,7 +4,7 @@
 
    ESP : slots/A01, slots/B01, history/*, status/vehiclesInside
    Web    : gate/open  (true = Gate Open, false = Gate Close)
-   Web    : সব ডাটা (Date, Entry, Exit, Parking Time, Vehicles Inside, IR Sensors)
+   Web    : (Date, Entry, Exit, Parking Time, Vehicles Inside, IR Sensors)
    ========================================================= */
 
 const P = {
