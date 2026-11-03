@@ -1,10 +1,10 @@
 /* =========================================================
    SmartPark - Firebase Realtime Database
-   ESP32  ->  Firebase  ->  Web  (এক সিস্টেমে যুক্ত)
 
-   ESP32 লেখে : slots/A01, slots/B01, history/*, status/vehiclesInside
-   Web লেখে   : gate/open  (true = Gate Open, false = Gate Close)
-   Web পড়ে   : সব ডাটা (Date, Entry, Exit, Parking Time, Vehicles Inside, IR Sensors)
+
+   ESP : slots/A01, slots/B01, history/*, status/vehiclesInside
+   Web    : gate/open  (true = Gate Open, false = Gate Close)
+   Web    : সব ডাটা (Date, Entry, Exit, Parking Time, Vehicles Inside, IR Sensors)
    ========================================================= */
 
 const P = {
