@@ -26,7 +26,8 @@ Firebase Realtime Database is used for cloud-based data storage and synchronizat
 The main goal of this project is to reduce manual parking management, save time, and improve parking space utilization through Internet of Things (IoT) technology.
 
 ---
-## project Report: Smart_Parking_Report (2).pdf
+#project Report: Smart_Parking_Report (2).pdf
+
 ## 🎯 Project Objectives
 
 - To detect vehicle presence using IR sensors.
